@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Clown Suit",
+    "price": 19.99,
+    "description": "This makes you funny",
+    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+  },
+  {
+    "id": 2,
+    "name": "Cop Suit",
+    "price": 19.99,
+    "description": "This gives you authority",
+    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+  },
+  {
+    "id": 3,
+    "name": "Fireman Suit",
+    "price": 19.99,
+    "description": "This makes you hot",
+    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+  }
+]
