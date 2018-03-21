@@ -1,1 +1,23 @@
-{}
+[
+  {
+    "id": 1,
+    "name": "Clown Suit",
+    "price": 19.99,
+    "description": "This makes you funny",
+    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+  },
+  {
+    "id": 2,
+    "name": "Bat Suit",
+    "price": 49.99,
+    "description": "This makes you Batman",
+    "tags": [{ "id": 2, "name": "New", "color": "red" }]
+  },
+  {
+    "id": 1,
+    "name": "Crab Suit",
+    "price": 29.99,
+    "description": "This makes you Crabby",
+    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+  }
+]

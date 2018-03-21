@@ -8,16 +8,16 @@
   },
   {
     "id": 2,
-    "name": "Cop Suit",
-    "price": 19.99,
-    "description": "This gives you authority",
-    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+    "name": "Bat Suit",
+    "price": 49.99,
+    "description": "This makes you Batman",
+    "tags": [{ "id": 2, "name": "new", "color": "red" }]
   },
   {
-    "id": 3,
-    "name": "Fireman Suit",
-    "price": 19.99,
-    "description": "This makes you hot",
-    "tags": [{ "id": 1, "name": "clearance", "color": "blue" }]
+    "id": 1,
+    "name": "Crab Suit",
+    "price": 29.99,
+    "description": "This makes you Crabby",
+    "tags": [{ "id": 3, "name": "clearance", "color": "blue" }]
   }
 ]

@@ -14,9 +14,7 @@ const tagsRoutes = require('./src/routes/tags.js')
 
 app.use('/costumes', costumeRoutes)
 
-app.use('/costumes/tags', tagsRoutes)
-
-app.use('/costumes/:id/tags', tagsRoutes)
+app.use('/tags', tagsRoutes)
 
 app.use((err, req, res, next) => {
   res.status(err.status).json(
